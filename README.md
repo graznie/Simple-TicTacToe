@@ -28,7 +28,7 @@ Player X wins!
 
 1. Clone the repository:
    ```
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+   git clone https://github.com/graznie/Simple-TicTacToe
    cd Simple-TicTacToe
    ```
 2. Compile:
